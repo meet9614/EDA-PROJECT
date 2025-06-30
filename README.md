@@ -1,5 +1,5 @@
-# EDA-PROJECT
-SuperStore Analysis
+# EDA-PROJECT:
+SuperStore Analysis:
 I’m thrilled to share my latest project where I dove deep into Exploratory Data Analysis (EDA) using Superstore data! This project was a fantastic opportunity to apply data analytics techniques to uncover hidden trends, patterns, and actionable insights.
 
 🔍 About the Project
