@@ -16,7 +16,7 @@ Gained hands-on experience in data analytics and ETL processes.
 
 Explored different types of data analytics (descriptive, diagnostic, predictive).
 
-Leveraged Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization.
+Leveraged Python (Pandas, Matplotlib, NumPy) for data manipulation and visualization.
 
 This project reinforced the power of data-driven decision-making and how analytics can transform raw data into strategic business insights.
 
